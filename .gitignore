@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+
+# Streamlit specific
+.streamlit/secrets.toml
+
+# Databases (Sensitive User Data)
+finance_tracker.db
+
+# Exported Excel Spreadsheets
+*.xlsx
+*.xls
+
+# IDE / Editor folders
+.vscode/
+.idea/
+*.swp
+*.swo
